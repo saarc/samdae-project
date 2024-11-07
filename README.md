@@ -38,7 +38,12 @@ system-genesis-block
 contract/samdae 내에서
 `go get "github.com/hyperledger/fabric-contract-api-go/contractapi"`
 `go mod vendor`
+
+## 프로젝트 디렉토리 환경변수 설정
+export PROJECT=####프로젝트 디렉토리 절대경로
+
 ## contract directory 에서 배포 쉘스크립트 수행
+
 `chmod +x *.sh`
 `./deploy_to_well.sh`
 
