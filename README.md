@@ -57,3 +57,5 @@ export PROJECT=####프로젝트 디렉토리 절대경로
 http://localhost:3000
 
 # 랜딩 지갑 - 기능 - 블록체인 데시보드  페이지 확인
+
+![image](https://github.com/user-attachments/assets/27e17feb-b3a6-4957-87a1-2c87350be73b)
