@@ -20,7 +20,7 @@ setOrg2() {
 
 # 환경설정
 export FABRIC_CFG_PATH=~/fabric-samples/config
-export TEST_NETWORK_DIR=~/dev/final-project/well-network
+export TEST_NETWORK_DIR=${PROJ_DIR}/well-network
 export CORE_PEER_TLS_ENABLED=true
 
 CHAINCODE_NAME=samdae
